@@ -66,6 +66,17 @@ To deploy this application to Heroku, the <b>Callback URL</b> & <b>redirect_uri<
 
 Watch [this video](https://www.youtube.com/watch?v=Oqa9O20Gj0c) on how deploy this sample to Heroku.
 
+### Deploy on AWS
+
+
+<p>
+<a>
+ <span>
+    <img height="100%" src="https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png" herf="https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/launchEnvironment?applicationName=EBS-Deploy-Node-Callback-2&solutionStackName=Node.js">
+</span>
+</a>
+</p>
+
 ## Packages used
 
 All Autodesk Forge NPM packages are included by default, see complete list of what's available at [NPM website](https://www.npmjs.com/browse/keyword/autodesk). OAuth, Model Derivative and OSS are used. [Box SDK](https://docs.box.com/page/sdks) for NodeJS is [box-node-sdk](https://www.npmjs.com/package/box-node-sdk). Some other non-Autodesk packaged are used, including [express](https://www.npmjs.com/package/express) and its session/cookie middlewares ([express-session](https://www.npmjs.com/package/express-session) and [cookie-parser](https://www.npmjs.com/package/cookie-parser)) for user session handling. The front-end uses [bootsrap](https://www.npmjs.com/package/bootstrap) and [jquery](https://www.npmjs.com/package/jquery).

@@ -69,23 +69,15 @@ Watch [this video](https://www.youtube.com/watch?v=Oqa9O20Gj0c) on how deploy th
 ### Deploy on AWS
 
 
-[![Deploy](https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png)](https://console.aws.amazon.com/elasticbeanstalk/?region=us-west-2#/newApplication?applicationName=EBS-Deploy-Node-Callback-1&solutionStackName=Node.js)
+To deploy this project to AWS, be sure to set your environment variables in the console of BeanStalk:
 
+- `FORGE_CLIENT_ID`
+- `FORGE_CLIENT_SECRET`
+- `BOX_CLIENT_ID`
+- `BOX_CLIENT_SECRET`
+- `BOX_CALLBACK_URL`
 
-<p>
-<a target="_blank" herf="https://us-west-2.console.aws.amazon.com">
- <span>
-    <img height="100%" src="https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png" >
-</span>
-</a>
-</p>
-
-<p>
-<a target="_blank" href="https://console.aws.amazon.com/mobilehub/home?#/?config=photoapptemplate.zip">
-<span>
-    <img height="100%" src="https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png"/>
-</span>
-</a>
+[![Deploy](https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png)](https://console.aws.amazon.com/elasticbeanstalk/?region=us-west-2#/newApplication?applicationName=EBS-Deploy-Node-Callback-1&solutionStackName=Node.js) 
 
 ## Packages used
 

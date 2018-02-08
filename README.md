@@ -70,9 +70,9 @@ Watch [this video](https://www.youtube.com/watch?v=Oqa9O20Gj0c) on how deploy th
 
 
 <p>
-<a>
+<a target="_blank" herf="https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/launchEnvironment?applicationName=EBS-Deploy-Node-Callback-2&solutionStackName=Node.js">
  <span>
-    <img height="100%" src="https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png" herf="https://us-west-2.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-2#/launchEnvironment?applicationName=EBS-Deploy-Node-Callback-2&solutionStackName=Node.js">
+    <img height="100%" src="https://s3.amazonaws.com/deploytomh/button-deploy-aws-mh.png" >
 </span>
 </a>
 </p>

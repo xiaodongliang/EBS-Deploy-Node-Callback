@@ -69,7 +69,7 @@ Watch [this video](https://www.youtube.com/watch?v=Oqa9O20Gj0c) on how deploy th
 ### Deploy on AWS
 
 
-To deploy this project to AWS, be sure to set your environment variables in the console of BeanStalk:
+To deploy this project to AWS, be sure to set your environment variables in the console of BeanStalk. The <b>Callback URL</b> & <b>redirect_uri</b> must use your .elasticbeanstalk.com address. And the HTTPs listner needs to be enabled. 
 
 - `FORGE_CLIENT_ID`
 - `FORGE_CLIENT_SECRET`
